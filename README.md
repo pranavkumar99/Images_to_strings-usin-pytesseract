@@ -1,1 +1,1 @@
-# Images_to_strings-usin-pytesseract
+# Images_to_strings-using-pytesseract
